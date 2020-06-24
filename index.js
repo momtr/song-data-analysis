@@ -1,0 +1,1 @@
+const songs = require('./data/songs.json');
